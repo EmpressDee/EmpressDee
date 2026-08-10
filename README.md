@@ -20,7 +20,8 @@ I'm currently wrapping up a full-stack engineering program at Per Scholas  and I
 
 I care about software that makes life easier for the people (and animals) who need it most. Starting in August, my capstone project will be a veterinary appointments app — bridging clinic-side workflow needs with clean, modern engineering.
 
-Check out some of my recent projects below 👇 *(pinned repos coming soon)*
+Check out some of my recent projects below 👇 
+Capstone : https://github.com/EmpressDee/PawSuite-Veterinary-Appointment-Management-
 
 ## 🎯 What I'm looking for
 
