@@ -1,6 +1,6 @@
 # Hi, I'm Claudena 👋
 
-I'm a  veterinary technician with a lifelong passion for technology . I'm finishing up full-stack software engineering training so I can build the tools my field actually needs.
+I'm a  veterinary technician with a lifelong passion for technology . I recently finished up full-stack software engineering training so I can build the tools my field actually needs.
 
 ## 🩺➕💻 My path here
 
