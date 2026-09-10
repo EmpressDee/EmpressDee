@@ -32,7 +32,7 @@ I'm actively job-hunting for **entry-level software engineering roles** — espe
 *(links coming soon)*
 
 ---
-*Currently leveling up: Mongoose, TypeScript, and building things that matter to me.*
+*Currently leveling up: Tailwind CSS, TypeScript, and building things that matter to me.*
 
 
 
